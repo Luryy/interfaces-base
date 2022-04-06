@@ -1,0 +1,11 @@
+{
+  "name": "@luryy/interfaces-base",
+  "version": "1.0.0",
+  "description": "Typescript shared interfaces library",
+  "main": "index.js",
+  "author": "luryy",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
