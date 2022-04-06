@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "luryy",
   "license": "MIT",
+  "repository": "git@github.com:Luryy/interfaces-base.git",
   "devDependencies": {
     "typescript": "^4.6.3"
   }
